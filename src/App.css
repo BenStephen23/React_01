@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+}
+.product-image {
+  width: 100%;
+  height: auto;
+}
+
+.welcome-image {
+  width: 290px;
+  height: auto;
+  margin-top: 20px;
+}
